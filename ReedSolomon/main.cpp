@@ -4,7 +4,7 @@
  * See LICENSE */
 
 #include <iostream>
-#include "help_gf.hpp"
+#include "help_gf.h"
 #include "gf.h"
 #include "rs_encoding.h"
 #include "rs_decoding.h"
