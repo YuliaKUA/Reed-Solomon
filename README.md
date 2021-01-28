@@ -69,7 +69,7 @@
 
 ### Пример работы программы
 | № | Результат |
-| :---: | :---: | :---: |
+| :---: | :---: |
 | 1 |![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image2.jpg) |
 | 2 |![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image1.jpg) |
 
