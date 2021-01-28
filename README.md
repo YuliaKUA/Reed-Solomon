@@ -70,7 +70,7 @@
 ### Пример работы программы
 | № | Сообщение | Результат |
 | :---: | :---: | :---: |
-| 1 || |
+| 1 || ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image1.jpg) |
 | 2 || |
 | 3 || |
 | 4 || |
