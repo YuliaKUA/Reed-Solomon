@@ -75,3 +75,4 @@ N - k = 10
 | 1 |![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image2.jpg) |
 | 2 |![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image1.jpg) |
 | 3 |![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image3.jpg) |
+
