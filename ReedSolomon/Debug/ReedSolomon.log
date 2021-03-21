@@ -1,0 +1,11 @@
+﻿  main.cpp
+E:\ReedSolomon\ReedSolomon\gf.hpp(187,26): warning C4244: аргумент: преобразование "uint16_t" в "uint8_t", возможна потеря данных
+E:\ReedSolomon\ReedSolomon\gf.hpp(187,41): warning C4244: аргумент: преобразование "uint16_t" в "uint8_t", возможна потеря данных
+E:\ReedSolomon\ReedSolomon\gf.hpp(253,46): warning C4267: =: преобразование из "size_t" в "uint8_t"; возможна потеря данных
+E:\ReedSolomon\ReedSolomon\help_gf.hpp(48,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\ReedSolomon\ReedSolomon\help_gf.hpp(49,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\ReedSolomon\ReedSolomon\help_gf.hpp(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ReedSolomon\ReedSolomon\help_gf.hpp(98,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\ReedSolomon\ReedSolomon\main.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ReedSolomon\ReedSolomon\main.cpp(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+  ReedSolomon.vcxproj -> E:\ReedSolomon\Debug\ReedSolomon.exe
