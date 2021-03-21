@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Project\Reed-Solomon-main\ReedSolomon\gf.cpp(190,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\help_gf.cpp(46,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\help_gf.cpp(47,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\help_gf.cpp(102,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_encoding.cpp(38,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_decoding.cpp(69,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_decoding.cpp(92,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_decoding.cpp(103,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_decoding.cpp(124,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_decoding.cpp(189,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_decoding.cpp(228,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_decoding.cpp(255,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_decoding.cpp(319,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\main.cpp(54,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Project\Reed-Solomon-main\ReedSolomon\rs_encoding.cpp(100): warning C4715: rs_encode_msg: значение возвращается не при всех путях выполнения
+  ReedSolomon.vcxproj -> C:\Project\Reed-Solomon-main\x64\Debug\ReedSolomon.exe
