@@ -69,7 +69,7 @@
 
 ### Пример работы программы
 N-ричный код с кодовым расстоянием D
-| № | Код (N, D)| Результат |
+| № | Код | Результат |
 | :---: | :---: | :---: |
 | 1 | (11, 12) | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/data/Image2.jpg)  |
 | 2 | (9, 31)  | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/data/Image1.jpg)  |
