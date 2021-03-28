@@ -20,7 +20,7 @@ int main() {
      const int N = 31;
      const int k = N - D + 1;
 
-     unsigned char message[] = "Привет мир! Hello 123";
+     unsigned char message[] = "ГЏГ°ГЁГўГҐГІ Г¬ГЁГ°! Hello 123";
      const int msglen = sizeof(message) - 1;
 
      std::cout << "Message:   ";
@@ -58,8 +58,9 @@ int main() {
              int r = rand() % 256;
              erroneous[h] = r;
          }
-         std::cout << erroneous[i] << " ";
+         //std::cout << erroneous[i] << " ";
      }
+     gf::print(erroneous);
      
      decoded = rs_decode_msg(erroneous, N-k);
      std::cout << std::endl << "Decoded:   ";
