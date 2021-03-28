@@ -68,10 +68,9 @@
 Алгоритм Берлекемпа-Месси является наиболее эффективным для решения множества линейных уравнений и нахождения L(x). Я поняла основную идею следующим образом – алгоритм итеративно вычисляет полином локатора ошибок. Для этого он вычисляет дельта-расхождение, по которому мы можем определить, нужно ли нам обновлять локатор ошибок или нет. 
 
 ### Пример работы программы
-N - k = 10
-
-| № | Результат |
-| :---: | :---: |
-| 1 |![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image2.jpg) |
-| 2 |![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image1.jpg) |
-| 3 |![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image3.jpg) |
+N-ричный код с кодовым расстоянием D
+| № | Код | Результат |
+| :---: | :---: | :---: |
+| 1 | (11, 12) | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image2.jpg) |
+| 2 | (9, 31) | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image1.jpg) |
+| 3 | (10, 20) | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image3.jpg) |
