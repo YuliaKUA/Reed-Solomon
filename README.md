@@ -73,4 +73,4 @@ N-ричный код с кодовым расстоянием D
 | :---: | :---: | :---: |
 | 1 | (11, 12) | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/res/Image2.jpg) |
 | 2 | (9, 31)  |  |
-| 3 | (10, 20) |  |
+| 3 | (20, 31) |  |
