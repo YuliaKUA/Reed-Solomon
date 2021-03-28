@@ -71,6 +71,6 @@
 N-ричный код с кодовым расстоянием D
 | № | Код | Результат |
 | :---: | :---: | :---: |
-| 1 | (11, 12) | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/data/Image2.jpg)  |
+| 1 | (11, 12)      | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/data/Image2.jpg)  |
 | 2 | (9, 31)  | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/data/Image1.jpg)  |
 | 3 | (20, 31) | ![alt text](https://github.com/YuliaKUA/Reed-Solomon/blob/main/data/Image3.jpg)  |
